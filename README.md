@@ -1,0 +1,2 @@
+# DrugXafeTestPrivacyPolicy
+DrugXafeTestPrivacyPolicy
